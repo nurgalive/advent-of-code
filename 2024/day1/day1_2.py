@@ -1,15 +1,5 @@
 """
-Calculate a total similarity score by adding up each number in the left list after multiplying it
-by the number of times that number appears in the right list.
-
-31 (9 + 4 + 0 + 0 + 9 + 9)
-
-3   4
-4   3
-2   5
-1   3
-3   9
-3   3
+Calculate a total similarity score.
 """
 
 
